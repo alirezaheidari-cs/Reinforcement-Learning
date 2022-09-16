@@ -1,5 +1,5 @@
 # RL Q-Learning
-Implement a Q learning algorithm with gym library to control redlights for reducing traffic
+Implement a Q-learning algorithm with gym library to control redlights for reducing traffic
 
 ## Prerequisites
 - Python 3.6+
