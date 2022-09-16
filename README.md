@@ -16,7 +16,7 @@ Implement a Q learning algorithm with gym library to control redlights for reduc
 ## Result
 
 <h3 align="center">
-  <img src="Images/result.png" width="500">
+  <img src="Images/reslut.png" width="500">
 </h3>
 As you can see, the agent's given reward is getting stablized through the time.
 
