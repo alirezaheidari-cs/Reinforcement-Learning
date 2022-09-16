@@ -13,7 +13,7 @@ Implement a Q learning algorithm with gym library to control redlights for reduc
 
 
 
-## Result
+## Evaluation
 
 <h3 align="center">
   <img src="Images/reslut.png" width="500">
